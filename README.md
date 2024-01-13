@@ -38,6 +38,12 @@ Udělejte tento program: ![](https://github.com/Pythom1234/microbit-learn/assets
 Stáhněte program na micro:bit a sledujte, co se stane, když zmáčknete tlačítka **A** a **B**.
 
 ## Pro pokročilé
+### Přidání rozšíření
+* klikněte na ![](https://github.com/Pythom1234/microbit-learn/assets/149593207/eeb57263-5888-4d29-bf89-4bfde6ae2808)
+* uvidíte ![](https://github.com/Pythom1234/microbit-learn/assets/149593207/77638913-71ca-4583-9559-2fecf6e68c3e)
+* stačí kliknout na rozšíření, které se přidá do vašeho projektu
+
+
 
 
 
