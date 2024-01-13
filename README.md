@@ -1,8 +1,8 @@
 # Micro:bit
 ## Obsah
-* [Jak začít](#zacit)
-* [Pro pokročilé](#pokrocile)
-## [Jak začít](#zacit)
+* [Jak začít](#jak-začít)
+* [Pro pokročilé](#pro-pokročilé)
+## Jak začít
 * otevřete [https://makecode.microbit.org/](https://makecode.microbit.org/) v prohlížeči, který podporuje [WebUSB](https://en.wikipedia.org/wiki/WebUSB)
 * klikněte na _Nový projekt_
 * napište jméno projektu (třeba _microbit-zkouska_)
