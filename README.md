@@ -2,7 +2,7 @@
 ## Obsah
 * [Jak začít](#zacit)
 * [Pro pokročilé](#pokrocile)
-## Jak začít {#zacit}
+## [Jak začít](#zacit)
 * otevřete [https://makecode.microbit.org/](https://makecode.microbit.org/) v prohlížeči, který podporuje [WebUSB](https://en.wikipedia.org/wiki/WebUSB)
 * klikněte na _Nový projekt_
 * napište jméno projektu (třeba _microbit-zkouska_)
@@ -37,7 +37,7 @@ Udělejte tento program: ![](https://github.com/Pythom1234/microbit-learn/assets
 
 Stáhněte program na micro:bit a sledujte, co se stane, když zmáčknete tlačítka **A** a **B**.
 
-## Pro pokročilé {#pokrocile}
+## [Pro pokročilé](#pokrocile)
 
 
 
