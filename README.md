@@ -37,7 +37,7 @@ Udělejte tento program: ![](https://github.com/Pythom1234/microbit-learn/assets
 
 Stáhněte program na micro:bit a sledujte, co se stane, když zmáčknete tlačítka **A** a **B**.
 
-## [Pro pokročilé](#pokrocile)
+## Pro pokročilé
 
 
 
