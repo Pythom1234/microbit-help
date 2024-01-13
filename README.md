@@ -1,5 +1,8 @@
 # Micro:bit
-## Jak začít
+## Obsah
+* [Jak začít](#zacit)
+* [Pro pokročilé](#pokrocile)
+## Jak začít {#zacit}
 * otevřete [https://makecode.microbit.org/](https://makecode.microbit.org/) v prohlížeči, který podporuje [WebUSB](https://en.wikipedia.org/wiki/WebUSB)
 * klikněte na _Nový projekt_
 * napište jméno projektu (třeba _microbit-zkouska_)
@@ -26,7 +29,7 @@
 
 * pokud úspěšně nahrajete program, uvidíte na micro:bitu to samé, co vám ukazoval simulátor
 * můžete si dál hrát a zkoušet další obrázky
-## Další bloky
+### Další bloky
 Micro:bit umí i další věci, než jen ukazovat obrázky.
 Zkuste vytáhnout z **_Vstup_** blok **_při stisknutí tlačítka a_** a do něj dejte **_ukaž tvar_**
 
@@ -34,6 +37,7 @@ Udělejte tento program: ![](https://github.com/Pythom1234/microbit-learn/assets
 
 Stáhněte program na micro:bit a sledujte, co se stane, když zmáčknete tlačítka **A** a **B**.
 
+## Pro pokročilé {#pokrocile}
 
 
 
